@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='link_storage',
-      version='0.1.1',
+      version='0.1.2',
       description='Link Storage DB wrapper',
       url='https://bitbucket.org/henrique_coura/link_storage',
       author='Henrique Coura',
